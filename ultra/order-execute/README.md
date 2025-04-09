@@ -6,7 +6,7 @@ This script demonstrates how to get a quote for an order, and then execute the o
 
 - Node.js (v16 or higher)
 - npm (v10 or higher)
-- Solana Wallet Public Address
+- Solana Wallet Public AddressHCoXDRJqcVv7EWdHonAxusgmHSf2tetQkiryTme6PyTg
 - Solana Wallet Private Key
 
 ## Usage
